@@ -1,0 +1,117 @@
+FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+FFFFF                         FFFFF                         FFFFF                         FFFFF                         FFFFF
+F                             F                             F                             F                             F
+FFFF                          FFFFF                         FFFF                          FFFFF                         FFFFF
+F                             F                             F                             F                             F
+F                             F                             F                             F                             F
+FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+FFFFF                         FFFFF                         FFFFF                         FFFFF                         FFFFF
+F                             F                             F                             F                             F
+FFFF                          FFFFF                         FFFF                          FFFFF                         FFFFF
+F                             F                             F                             F                             F
+F                             F                             F                             F                             F
+F                             F                             F                             F                             F
+FFFFF FFFFF FFFFF FFFFF FFFFF
+F     F     F     F     F
+FFFF  FFFF  FFFF  FFFF  FFFF
+F     F     F     F     F
+F     F     F     F     F
+FFFFF
+F
+FFFF
+F
+F
+FFFFF FFFFF FFFFF FFFFF
+F     F     F     F
+FFFF  FFFF  FFFF  FFFF
+F     F     F     F
+F     F     F     F
+FFFFF
+F
+FFFF
+F
+F
+FFFFF
+F
+FFFF
+F
+F
+FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+FFFFF                         FFFFF                         FFFFF                         FFFFF                         FFFFF
+F                             F                             F                             F                             F
+FFFF                          FFFFF                         FFFF                          FFFFF                         FFFFF
+F                             F                             F                             F                             F
+F                             F                             F                             F                             F
+FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF FFFFF
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF  FFFF
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F     F
+FFFFF                         FFFFF                         FFFFF                         FFFFF                         FFFFF
+F                             F                             F                             F                             F
+FFFF                          FFFFF                         FFFF                          FFFFF                         FFFFF
+F                             F                             F                             F                             F
+F                             F                             F                             F                             F
+F                             F                             F                             F                             F
+FFFFF FFFFF FFFFF FFFFF FFFFF
+F     F     F     F     F
+FFFF  FFFF  FFFF  FFFF  FFFF
+F     F     F     F     F
+F     F     F     F     F
+FFFFF
+F
+FFFF
+F
+F
+FFFFF FFFFF FFFFF FFFFF
+F     F     F     F
+FFFF  FFFF  FFFF  FFFF
+F     F     F     F
+F     F     F     F
+FFFFF
+F
+FFFF
+F
+F
+FFFFF
+F
+FFFF
+F
+F
+FFFFF FFFFF FFFFF FFFFF FFFFF
+F     F     F     F     F
+FFFF  FFFF  FFFF  FFFF  FFFF
+F     F     F     F     F
+F     F     F     F     F
+FFFFF
+F
+FFFF
+F
+F
+FFFFF FFFFF FFFFF FFFFF
+F     F     F     F
+FFFF  FFFF  FFFF  FFFF
+F     F     F     F
+F     F     F     F
+FFFFF
+F
+FFFF
+F
+F
+FFFFF
+F
+FFFF
+F
+F

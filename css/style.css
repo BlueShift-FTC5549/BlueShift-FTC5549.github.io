@@ -1,0 +1,257 @@
+body {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Share-Techmono", monospace;
+    font-size: 17px;
+}
+
+p {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Share-Techmono", monospace;
+    font-size: 3vw;
+}
+
+a {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Share-Techmono", monospace;
+    font-size: 17px;
+}
+
+div.mainmenu {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Share-Techmono", monospace;
+    padding-top: 2%;
+    font-size: 2vw;
+    line-height: 40px;
+    left: 50%;
+    text-decoration: none;
+    padding-bottom: 10%;
+}
+
+div.mainbody{
+    word-wrap: normal;
+    padding: 5%;
+    padding-top: 1%;
+    line-height: 1.7em;
+    text-align: left;
+}
+
+a.bannername {
+  animation: text-flicker 3.5s infinite;
+}
+
+.copyright {
+  padding-bottom: 2%;
+}
+
+img.mainmenu {
+  width: 10%;
+  height: 10%;
+}
+
+a.bannername:hover {
+  -webkit-animation: neon 1.5s ease-in-out infinite alternate;
+  -moz-animation: neon 1.5s ease-in-out infinite alternate;
+  animation: neon 1.5s ease-in-out infinite alternate;
+  color: #ffffff
+}
+
+div.banner {
+  padding-top: 11%;
+  display: inline-block;
+  white-space: nowrap;
+  line-height: 0;
+  margin: 0 auto;
+  z-index: 100;
+  position: relative;
+  top: 0px;
+}
+
+@font-face {
+  font-family: "din black";
+  src: url("DINblack.ttf");
+}
+
+@font-face {
+  font-family: "Share-Techmono";
+  src: url("sharetechmono.ttf");
+}
+
+a.bannername {
+  font-size: 8vw;
+  text-decoration: none;
+  font-family: "din black";
+  font-style: italic;
+  margin: 0;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  word-spacing: 2vw;
+  line-height: 8vw;
+  transform: translate(-50%, -50%);
+  color: #ffffff
+}
+
+.offset {
+  animation: letter-flicker 5s infinite;
+}
+
+a.menuitem:link {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+  background-color: rgb(0, 0, 0);
+  color:            rgb(255, 255, 255);
+}
+a.menuitem:visited {
+  /* Applies to all visited links */
+  text-decoration:  none;
+  background-color: rgb(0, 0, 0);
+  color:            rgb(255, 255, 255);
+}
+a.menuitem:hover   {
+  /* Applies to links under the pointer */
+  text-decoration: none;
+  background-color: #118fe2;
+  color:            #000000;
+}
+
+a.menuitem:active   {
+  /* Applies to links under the pointer */
+  text-decoration: bold;
+  background-color: #118fe2;
+  color:            #000000;
+}
+
+@-webkit-keyframes neon {
+    from {
+      text-shadow: 0 0 10px #118fe2, 0 0 17px #118fe2, 0 0 30px #118fe2, 0 0 40px #118fe2, 0 0 70px #118fe2, 0 0 80px #118fe2, 0 0 100px #118fe2, 0 0 150px #118fe2;
+    }
+    to {
+      text-shadow: 0 0 5px #118fe2, 0 0 10px #118fe2, 0 0 17px #118fe2, 0 0 17px #118fe2, 0 0 35px #118fe2, 0 0 40px #118fe2, 0 0 50px #118fe2, 0 0 75px #118fe2;
+    }
+  }
+
+  @-moz-keyframes neon {
+    from {
+      text-shadow: 0 0 10px #118fe2, 0 0 17px #118fe2, 0 0 30px #118fe2, 0 0 40px #118fe2, 0 0 70px #118fe2, 0 0 80px #118fe2, 0 0 100px #118fe2, 0 0 150px #118fe2;
+    }
+    to {
+      text-shadow: 0 0 5px #118fe2, 0 0 10px #118fe2, 0 0 17px #118fe2, 0 0 17px #118fe2, 0 0 35px #118fe2, 0 0 40px #118fe2, 0 0 50px #118fe2, 0 0 75px #118fe2;
+    }
+  }
+  
+@keyframes neon {
+    from {
+      text-shadow: 0 0 10px #118fe2, 0 0 17px #118fe2, 0 0 30px #118fe2, 0 0 40px #118fe2, 0 0 70px #118fe2, 0 0 80px #118fe2, 0 0 100px #118fe2, 0 0 150px #118fe2;
+    }
+    to {
+      text-shadow: 0 0 5px #118fe2, 0 0 10px #118fe2, 0 0 17px #118fe2, 0 0 17px #118fe2, 0 0 35px #118fe2, 0 0 40px #118fe2, 0 0 50px #118fe2, 0 0 75px #118fe2;
+    }
+  }
+      /*REEEEEEEEEEESPONSIVE*/
+      
+@media (max-width: 650px) {
+  #container {
+    width: 100%;
+  }
+  p {
+    font-size: 3.5em;
+  }
+}
+
+@keyframes text-flicker {
+  0% {
+    opacity:0.6;
+    text-shadow: 0px 0px 29px #118fe2;
+  }
+  
+  2% {
+    opacity:1;
+    text-shadow: 0px 0px 29px #118fe2;
+  }
+  8% {
+    opacity:0.6;
+    text-shadow: 0px 0px 29px #118fe2;
+  }
+  9% {
+    opacity:1;
+    text-shadow: 0px 0px 29px #118fe2;
+  }
+  12% {
+    opacity:0.6;
+    text-shadow: 0px 0px #118fe2;
+  }
+  20% {
+    opacity:1;
+    text-shadow: 0px 0px 29px #118fe2
+  }
+  25% {
+    opacity:0.6;
+    text-shadow: 0px 0px 29px #118fe2
+  }
+  30% {
+    opacity:1;
+    text-shadow: 0px 0px 29px #118fe2
+  }
+  
+  70% {
+    opacity:0.6;
+    text-shadow: 0px 0px 29px #118fe2
+  }
+  
+  72% {
+    opacity:0.5;
+    text-shadow:0px 0px 29px #118fe2
+  }
+  
+  77% {
+    opacity:.9;
+    text-shadow: 0px 0px 29px #118fe2
+  }
+  100% {
+    opacity:.9;
+    text-shadow: 0px 0px 29px #118fe2
+  }
+}
+
+@keyframes letter-flicker {
+  0% {
+    opacity:1;
+    text-shadow: 0px 0px 29px #118fe2;
+  }
+  1% {
+    opacity:0.7;
+    text-shadow: 0px 0px 29px #118fe2;
+  }
+  3% {
+    opacity:1;
+    text-shadow: 0px 0px 29px #118fe2;
+  }
+  5% {
+    opacity:0.7;
+    text-shadow: 0px 0px 29px #118fe2;
+  }
+  6% {
+    opacity:1;
+    text-shadow: 0px 0px 29px #118fe2;
+  }
+  7% {
+    opacity: 0.7;
+    text-shadow: 0px  0px 29px  #118fe2
+  }
+  9% {
+    opacity: 1;
+    text-shadow: 0px  0px 29px  #118fe2
+  }
+  35% {
+    opacity: 0.7;
+    text-shadow: 0px  0px 29px  #118fe2
+  }
+  50% {
+    opacity: 1;
+    text-shadow: 0px  0px 29px  #118fe2
+  }
+}
