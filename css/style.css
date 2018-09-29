@@ -17,6 +17,14 @@ a {
     color: #FFFFFF;
     font-family: "Share-Techmono", monospace;
     font-size: 20px;
+    line-height: 100%;
+}
+
+pre {
+  text-align: center;
+  color: #FFFFFF;
+  font-family: "Share-Techmono", monospace;
+  font-size: 20px;
 }
 
 div.mainmenu {
@@ -113,14 +121,14 @@ a.menuitem:visited {
 a.menuitem:hover   {
   /* Applies to links under the pointer */
   text-decoration: none;
-  background-color: #118fe2;
+  background-color: #1183e2;
   color:            #000000;
 }
 
 a.menuitem:active   {
   /* Applies to links under the pointer */
   text-decoration: bold;
-  background-color: #118fe2;
+  background-color: #1183e2;
   color:            #000000;
 }
 
