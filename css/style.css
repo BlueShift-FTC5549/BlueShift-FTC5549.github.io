@@ -31,18 +31,19 @@ div.mainmenu {
     text-align: center;
     color: #FFFFFF;
     font-family: "Share-Techmono", monospace;
-    padding-top: 7%;
+    padding-top: 2%;
     font-size: 2vw;
-    line-height: 40px;
+    line-height: 1.7em;
     left: 50%;
     text-decoration: none;
     padding-bottom: 10%;
+    word-wrap: normal;
 }
 
 div.mainbody{
     word-wrap: normal;
     padding: 5%;
-    padding-top: 1%;
+    padding-top: 2%;
     line-height: 1.7em;
     text-align: left;
 }
