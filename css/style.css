@@ -12,6 +12,13 @@ p {
     font-size: 3vw;
 }
 
+code {
+  text-align: center;
+  color: #FFFFFF;
+  font-family: "DINblack", monospace;
+  font-size: 3vw;
+}
+
 a {
     text-align: center;
     color: #FFFFFF;
