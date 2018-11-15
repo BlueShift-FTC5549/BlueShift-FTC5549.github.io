@@ -114,6 +114,10 @@ a.bannername {
   animation: letter-flicker 5s infinite;
 }
 
+a.menuitem {
+  line-height: 150%;
+}
+
 a.menuitem:link {
   /* Applies to all unvisited links */
   text-decoration:  none;
