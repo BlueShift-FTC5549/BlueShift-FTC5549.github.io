@@ -52,7 +52,8 @@ div.mainbody{
     padding: 5%;
     padding-top: 2%;
     line-height: 1.7em;
-    text-align: left;
+    text-align: justify;
+    text-justify: auto;
 }
 
 a.bannername {
