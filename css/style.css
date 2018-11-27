@@ -9,7 +9,8 @@ p {
     text-align: center;
     color: #FFFFFF;
     font-family: "Share-Techmono", monospace;
-    font-size: 3vw;
+    font-size: 2.4vw;
+    line-height: 120%;
 }
 
 code {
