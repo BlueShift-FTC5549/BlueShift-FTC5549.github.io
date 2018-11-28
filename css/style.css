@@ -89,18 +89,6 @@ div.banner {
   top: 2vw;
 }
 
-/*
-@font-face {
-  font-family: "din black";
-  src: url("DINblack.ttf");
-}
-
-@font-face {
-  font-family: "Share Tech Mono";
-  src: url("sharetechmono.ttf");
-}
-*/
-
 a.bannername {
   font-size: 8vw;
   text-decoration: none;
