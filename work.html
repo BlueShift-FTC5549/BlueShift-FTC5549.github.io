@@ -23,6 +23,10 @@
         <link rel="icon" type="image/svg+xml" href="favicon.ico"> 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript" src="scripts/script.js">
+        document.location.href=="https://github.com/BlueShift-FTC5549/BlueShift-FTC5549.github.io"
+        commits = document.getElementsByClassName('num text-emphasized')[0].innerText
+        </script>
         <center>
                 <div class="banner">
                     <a href="index.html"><img src="images/lambda.png" class="bannerpic" style="width:20vw"></a>
@@ -34,6 +38,10 @@
         <center>
             <div class="mainmenu">
                 <p>WORK</p>
+                <p id="scriptVar"></p>
+                <script type="text/javascript">
+                    document.write(commits)
+                </script>
                     <a class="menuitem" href="20181112.html">2018/11/12 - WHEEL BASE, CHARGING STATION, AND TEAM GITHUB</a><br>
                     <a class="menuitem" href="20181113.html">2018/11/13 - SWEEPER PROTOTYPE, BLUE SHIFT SOFTWARE 0.2.0</a><br>
                     <a class="menuitem" href="20181114.html">2018/11/14 - FINALIZE AUTONOMOUS IMU, MOUNTING SWEEPER</a><br>
