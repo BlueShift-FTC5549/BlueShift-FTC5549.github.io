@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
 
 @font-face {
-  font-family: 'din black';
-  src: url('dinblack.ttf'); /* IE9 Compat Modes */
-  src: url('dinblack.ttf') format('embedded-opentype'), /* IE6-IE8 */
-       url('dinblack.ttf') format('woff2'), /* Super Modern Browsers */
-       url('dinblack.ttf') format('woff'), /* Pretty Modern Browsers */
-       url('dinblack.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('dinblack.ttf') format('svg'); /* Legacy iOS */
+  font-family: 'din_blackregular';
+  src: url('fonts/dinblack-webfont.woff2') format('woff2'),
+       url('fonts/dinblack-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
 }
 
 body {
@@ -28,7 +27,7 @@ p {
 code {
   text-align: center;
   color: #FFFFFF;
-  font-family: "DINblack", monospace;
+  font-family: "din_blackregular", monospace;
   font-size: 3vw;
 }
 
@@ -102,7 +101,7 @@ div.banner {
 a.bannername {
   font-size: 8vw;
   text-decoration: none;
-  font-family: "din black";
+  font-family: "din_blackregular";
   font-style: italic;
   margin: 0;
   position: absolute;
