@@ -1,14 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
 
-@font-face {
-  font-family: 'din_blackregular';
-  src: url('fonts/dinblack-webfont.woff2') format('woff2'),
-       url('fonts/dinblack-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
 body {
     text-align: center;
     color: #FFFFFF;
@@ -101,7 +92,7 @@ div.banner {
 a.bannername {
   font-size: 8vw;
   text-decoration: none;
-  font-family: "din_blackregular";
+  font-family: 'Share Tech Mono';
   font-style: italic;
   margin: 0;
   position: absolute;
