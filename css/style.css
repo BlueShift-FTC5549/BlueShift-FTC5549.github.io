@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
 
 @font-face {
-  font-family: 'Share Tech Mono';
-  src: url('sharetechmono.ttf'); /* IE9 Compat Modes */
-  src: url('sharetechmono.ttf') format('embedded-opentype'), /* IE6-IE8 */
-       url('sharetechmono.ttf') format('woff2'), /* Super Modern Browsers */
-       url('sharetechmono.ttf') format('woff'), /* Pretty Modern Browsers */
-       url('sharetechmono.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('sharetechmono.ttf') format('svg'); /* Legacy iOS */
+  font-family: 'din black';
+  src: url('dinblack.ttf'); /* IE9 Compat Modes */
+  src: url('dinblack.ttf') format('embedded-opentype'), /* IE6-IE8 */
+       url('dinblack.ttf') format('woff2'), /* Super Modern Browsers */
+       url('dinblack.ttf') format('woff'), /* Pretty Modern Browsers */
+       url('dinblack.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('dinblack.ttf') format('svg'); /* Legacy iOS */
 }
 
 body {
